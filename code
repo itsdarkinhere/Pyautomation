@@ -1,0 +1,4 @@
+
+import webbrowser
+
+webbrowser.open('https://admservicecontrollersopsqaeu2-eu2-sopsqa-sc.3dexperience.3ds.com/sc/scui', new=2)
